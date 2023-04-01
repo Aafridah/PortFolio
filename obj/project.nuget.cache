@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7XgjCfHIU3RAKivMPezkNUAocXgnLaBDqo4s5IzhDcD+8eYEaTILq9wtpEzN+4cIcD2hJancIhCNw/fULNexSQ==",
+  "dgSpecHash": "AIe526N0nJLNozuTejn2MH1o3OdRW62SJCV5ja43EY38QJKuXaC/t5Jj9QN8ukOzQ/wwVC4zDJ2994SHuaVg0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aafridah\\source\\repos\\AafridahFolio\\AafridahFolio.csproj",
+  "projectFilePath": "C:\\Users\\Aafridah\\Source\\Repos\\PortFolio\\AafridahFolio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aafridah\\.nuget\\packages\\mailbee.net\\12.3.1\\mailbee.net.12.3.1.nupkg.sha512",
     "C:\\Users\\Aafridah\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",

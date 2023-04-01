@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aafridah\\source\\repos\\AafridahFolio\\AafridahFolio.csproj": {}
+    "C:\\Users\\Aafridah\\Source\\Repos\\PortFolio\\AafridahFolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aafridah\\source\\repos\\AafridahFolio\\AafridahFolio.csproj": {
+    "C:\\Users\\Aafridah\\Source\\Repos\\PortFolio\\AafridahFolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aafridah\\source\\repos\\AafridahFolio\\AafridahFolio.csproj",
+        "projectUniqueName": "C:\\Users\\Aafridah\\Source\\Repos\\PortFolio\\AafridahFolio.csproj",
         "projectName": "AafridahFolio",
-        "projectPath": "C:\\Users\\Aafridah\\source\\repos\\AafridahFolio\\AafridahFolio.csproj",
+        "projectPath": "C:\\Users\\Aafridah\\Source\\Repos\\PortFolio\\AafridahFolio.csproj",
         "packagesPath": "C:\\Users\\Aafridah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aafridah\\source\\repos\\AafridahFolio\\obj\\",
+        "outputPath": "C:\\Users\\Aafridah\\Source\\Repos\\PortFolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aafridah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -67,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
